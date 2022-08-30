@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Callmeperez / Carlos Andres Perez
+- I´m from Bogota, Colombia
+- 👀 I’m interested in Data Analytics and Front End Development
+- 🌱 I’m currently learning SQL and Power BI
+- 💞️ I’m looking to collaborate on Data analisys projects
+- 📫 How to reach me: 
+- perezcarlosandres87@gmail.com
+- https://www.linkedin.com/in/perezcarlosandres87/
